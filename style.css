@@ -1,0 +1,42 @@
+body{
+    background: black;
+    font-family: 'Roboto', sans-serif;
+}
+.content{
+    width: 400px;
+    height: auto;
+    background: #fff;
+}
+.header,.footer{
+    padding: 15px;
+}
+.logo{
+    width: 90%;
+    float: left;
+}
+.menu{
+    width: 10%;
+    text-align: right;
+    float: left;
+}
+.ht5,.names{
+    width: 5%;
+    float: left;
+}
+.names{
+    width: 40%;
+}
+.users{
+    width: 100%;
+}
+.img-fluid{
+    width: 100%;
+}
+.ic1,.ic2{
+    width: 90%;
+    font-size: 2em;
+    float: left;
+}
+.ic2{
+    width: 10%;
+}
